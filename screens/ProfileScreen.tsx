@@ -25,7 +25,7 @@ export default function ProfileScreen() {
   const user = {
     name: 'G.Yuva Kishore Reddy',
     email: 'g.yuvakishorereddy@gmail.com',
-    phone: '+91 7207513440',
+    phone: '+91 9581440276',
     image: 'https://img.etimg.com/thumb/msid-104233524,width-640,height-480,imgsize-43518,resizemode-4/dhonis-head-turning-hairstyle.jpg'
   };
 
