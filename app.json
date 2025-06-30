@@ -10,6 +10,10 @@
     },
     "ios": {
       "bundleIdentifier": "com.example.eventplanningapp"
+    },
+    "jsEngine": "hermes",
+    "experimental": {
+      "newArchEnabled": true
     }
   }
 }
